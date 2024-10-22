@@ -1,0 +1,21 @@
+2024-10-16 12:48:58,616 - ERROR - Tentativa de cadastro com campos em branco
+2024-10-16 12:49:15,378 - ERROR - Tentativa de cadastro falhou: erro de validação de senha
+2024-10-16 12:49:29,080 - ERROR - Tentativa de cadastro falhou: erro de validação de senha
+2024-10-16 12:49:35,270 - ERROR - Tentativa de cadastro falhou: senhas não correspondem
+2024-10-16 12:49:50,759 - INFO - Novo usuário cadastrado: @john
+2024-10-16 12:51:52,268 - ERROR - Tentativa de cadastro falhou: erro de validação de senha
+2024-10-16 12:52:18,598 - WARNING - Tentativa de cadastro falhou: nome de usuário @john já está cadastrado
+2024-10-16 13:12:33,233 - INFO - Novo usuário cadastrado: @john
+2024-10-16 13:32:27,420 - ERROR - Tentativa de cadastro falhou: erro de validação de senha
+2024-10-16 13:37:10,032 - INFO - Novo usuário cadastrado: John1
+2024-10-17 08:53:21,027 - ERROR - Tentativa de cadastro falhou: senhas não correspondem
+2024-10-17 08:53:35,943 - INFO - Novo usuário cadastrado: Morgas
+2024-10-18 12:27:20,006 - ERROR - Tentativa de login com usuário inexistente: John12
+2024-10-18 12:28:31,917 - INFO - Novo usuário cadastrado: John
+2024-10-18 12:28:48,536 - INFO - Usuário John fez login com sucesso
+2024-10-18 13:03:00,941 - WARNING - Tentativa de cadastro falhou: nome de usuário John já está cadastrado
+2024-10-18 13:03:16,970 - INFO - Novo usuário cadastrado: @John
+2024-10-21 13:06:11,940 - ERROR - Erro ao carregar imagem: Cadastro.display_image() takes 1 positional argument but 5 were given
+2024-10-21 13:07:21,979 - ERROR - Erro ao carregar imagem: Cadastro.display_image() takes 1 positional argument but 5 were given
+2024-10-22 10:07:01,756 - ERROR - Erro ao carregar demandas: no such column: demand_text
+2024-10-22 10:07:11,923 - ERROR - Erro ao carregar demandas: no such column: demand_text
